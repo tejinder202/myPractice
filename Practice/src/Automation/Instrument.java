@@ -1,4 +1,4 @@
-package Automation;
+package src.Automation;
 
 public abstract class Instrument {
 

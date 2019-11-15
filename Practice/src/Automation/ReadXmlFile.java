@@ -1,4 +1,4 @@
-package Automation;
+package src.Automation;
 
 import java.io.File;
 
